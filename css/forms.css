@@ -15,7 +15,7 @@ body {
 	margin: 0 auto;
 	padding: 1em;
 	display: flex;
-	flex-flow: row wrap;
+	flex-flow: row nowrap;
 	background-color: #efb106;
 	border :1px solid red;
 }
